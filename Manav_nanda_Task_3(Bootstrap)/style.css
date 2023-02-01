@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@500&display=swap');
+*{
+    font-family: 'Inter', sans-serif;
+}
+
+.border-service{
+    border:2px solid rgb(6, 50, 92);
+    border-radius: 10px;
+    background-color:rgb(228, 248, 248);
+    text-align: justify;
+}
+
+b{
+   margin-left: 10px;
+   font-size: 25px;
+   margin-bottom: 10px;
+}
+
+.all-partts{
+    background-color: azure;
+}
+
+.hover-effect ul li a:hover{
+    background-color: rgb(245, 66, 34);
+    border: 2px solid black;
+    border-radius: 10px;
+}
+.btn-effect:hover{
+    background-color: white;
+    color: black;
+}
+
+
+
+button:hover{
+    background-color: rgb(235, 71, 30);
+    color: black;
+    border: 4px solid white;
+}
+
+.card:hover{
+    background-color: rgb(227, 253, 253);
+}
+
+.hov-effect:hover{
+    background-color: aliceblue;
+    color: black;
+    border: 2px solid black;
+}
+.col-sm .img   {
+    border: 8px solid blue;
+    border-top-right-radius: 86px;
+    border-bottom-left-radius: 86px;
+}
+.col-sm .img img{
+    transform: translate(8%,8%);
+}
